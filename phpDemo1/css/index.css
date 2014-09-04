@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li{list-style: none;}
+body{font-size: 14px;font-family: Arial;}
+#all{
+
+	width: 600px;
+	margin: 20px auto;
+	border: 1px solid #ccc;
+}
+.add{
+	width: 600px;
+	height: 50px;
+	text-align: center;
+	margin: 15px auto;
+	line-height: 50px;
+}
+.add a{	color: #4f94cd;}
+
+.header{width: 585px;height: 60px;background-color: #ddd;display: block;padding: 15px 0 0 15px;}
+.title{float: left;}
+.name{float: left;margin-left: 20px;}
+.container{display: block;height: 30px;}
+.operation{display: block;height:30px;float: right;}
+.operation a{color: #4f94cd;}
+
+
+.content{width: 585px;height: 60px;display: block;padding: 15px 0 0 15px;border: 1px solid #ddd;}
+.send-time{width: 585px;height: 30px;display: block;padding: 15px 0 0 15px;border: 1px solid #ddd;}
+.send-time span{float: right;display: block;}
