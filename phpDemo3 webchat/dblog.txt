@@ -1,0 +1,1082 @@
+2014-09-10 05:21:54 查询 slect * from userinfo where id=123and userpwd =123
+2014-09-10 05:21:54 Query Error: slect * from userinfo where id=123and userpwd =123
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=123and userpwd =123' at line 1
+2014-09-10 05:21:54 释放结果集
+2014-09-10 05:21:54 完成整个查询任务,所用时间为0.0060000419616699
+2014-09-10 05:22:12 查询 slect * from userinfo where id=123and userpwd =123
+2014-09-10 05:22:12 Query Error: slect * from userinfo where id=123and userpwd =123
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=123and userpwd =123' at line 1
+2014-09-10 05:22:12 释放结果集
+2014-09-10 05:22:12 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:22:19 查询 slect * from userinfo where id=and userpwd =
+2014-09-10 05:22:19 Query Error: slect * from userinfo where id=and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=and userpwd =' at line 1
+2014-09-10 05:22:19 释放结果集
+2014-09-10 05:22:19 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 05:22:48 查询 slect * from userinfo where id=and userpwd =
+2014-09-10 05:22:48 Query Error: slect * from userinfo where id=and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=and userpwd =' at line 1
+2014-09-10 05:22:48 释放结果集
+2014-09-10 05:22:48 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:22:54 查询 slect * from userinfo where id=and userpwd =
+2014-09-10 05:22:54 Query Error: slect * from userinfo where id=and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=and userpwd =' at line 1
+2014-09-10 05:22:54 释放结果集
+2014-09-10 05:22:54 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 05:22:55 查询 slect * from userinfo where id=and userpwd =
+2014-09-10 05:22:55 Query Error: slect * from userinfo where id=and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=and userpwd =' at line 1
+2014-09-10 05:22:55 释放结果集
+2014-09-10 05:22:55 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:23:00 查询 slect * from userinfo where id=and userpwd =
+2014-09-10 05:23:00 Query Error: slect * from userinfo where id=and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=and userpwd =' at line 1
+2014-09-10 05:23:00 释放结果集
+2014-09-10 05:23:00 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 05:23:04 查询 slect * from userinfo where id=and userpwd =
+2014-09-10 05:23:04 Query Error: slect * from userinfo where id=and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from userinfo where id=and userpwd =' at line 1
+2014-09-10 05:23:04 释放结果集
+2014-09-10 05:23:04 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 05:23:19 释放结果集
+2014-09-10 05:23:19 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:23:53 释放结果集
+2014-09-10 05:23:53 完成整个查询任务,所用时间为0.013001203536987
+2014-09-10 05:24:00 释放结果集
+2014-09-10 05:24:00 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:24:20 释放结果集
+2014-09-10 05:24:20 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 05:24:23 释放结果集
+2014-09-10 05:24:23 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 05:24:38 释放结果集
+2014-09-10 05:24:38 完成整个查询任务,所用时间为0.013000011444092
+2014-09-10 05:26:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 05:26:38 释放结果集
+2014-09-10 05:26:38 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 05:31:27 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 05:31:27 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 05:31:27 释放结果集
+2014-09-10 05:31:27 完成整个查询任务,所用时间为0.0039999485015869
+2014-09-10 05:31:29 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:31:29 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:31:29 释放结果集
+2014-09-10 05:31:29 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:33:12 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:33:12 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:33:12 释放结果集
+2014-09-10 05:33:12 完成整个查询任务,所用时间为0.0010011196136475
+2014-09-10 05:33:20 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:33:20 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:33:20 释放结果集
+2014-09-10 05:33:20 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 05:37:12 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:37:12 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:37:12 释放结果集
+2014-09-10 05:37:12 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 05:37:14 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:37:14 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:37:14 释放结果集
+2014-09-10 05:37:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:37:15 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:37:15 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:37:15 释放结果集
+2014-09-10 05:37:15 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 05:37:16 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:37:16 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:37:16 释放结果集
+2014-09-10 05:37:16 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 05:37:17 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:37:17 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:37:17 释放结果集
+2014-09-10 05:37:17 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 05:37:26 查询 select * from userinfo where id= and userpwd =
+2014-09-10 05:37:26 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 05:37:26 释放结果集
+2014-09-10 05:37:26 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 05:37:39 释放结果集
+2014-09-10 05:37:39 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 07:48:35 释放结果集
+2014-09-10 07:48:35 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:48:40 释放结果集
+2014-09-10 07:48:40 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:50:11 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:50:11 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:50:11 释放结果集
+2014-09-10 07:50:11 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:50:13 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:50:13 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:50:13 释放结果集
+2014-09-10 07:50:13 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:50:14 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:50:14 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:50:14 释放结果集
+2014-09-10 07:50:14 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:50:14 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:50:14 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:50:14 释放结果集
+2014-09-10 07:50:14 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 07:50:19 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:50:19 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:50:19 释放结果集
+2014-09-10 07:50:19 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:50:41 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:50:41 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:50:41 释放结果集
+2014-09-10 07:50:41 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:52:29 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:29 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:29 释放结果集
+2014-09-10 07:52:29 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 07:52:35 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:35 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:35 释放结果集
+2014-09-10 07:52:35 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 07:52:41 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:41 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:41 释放结果集
+2014-09-10 07:52:41 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:52:42 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:42 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:42 释放结果集
+2014-09-10 07:52:42 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:52:42 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:42 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:42 释放结果集
+2014-09-10 07:52:42 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:52:42 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:42 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:42 释放结果集
+2014-09-10 07:52:42 完成整个查询任务,所用时间为0.014001131057739
+2014-09-10 07:52:43 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:43 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:43 释放结果集
+2014-09-10 07:52:43 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:52:43 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:43 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:43 释放结果集
+2014-09-10 07:52:43 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:52:43 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:43 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:43 释放结果集
+2014-09-10 07:52:43 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 07:52:43 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:43 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:43 释放结果集
+2014-09-10 07:52:43 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 07:52:46 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:52:46 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:52:46 释放结果集
+2014-09-10 07:52:46 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:53:24 查询 select * from userinfo where id= and userpwd =
+2014-09-10 07:53:24 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 07:53:24 释放结果集
+2014-09-10 07:53:24 完成整个查询任务,所用时间为0.0030009746551514
+2014-09-10 07:53:49 释放结果集
+2014-09-10 07:53:49 完成整个查询任务,所用时间为0
+2014-09-10 07:55:00 释放结果集
+2014-09-10 07:55:00 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:55:01 释放结果集
+2014-09-10 07:55:01 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 07:55:02 释放结果集
+2014-09-10 07:55:02 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:55:02 释放结果集
+2014-09-10 07:55:02 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:55:03 释放结果集
+2014-09-10 07:55:03 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:55:03 释放结果集
+2014-09-10 07:55:03 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:55:04 释放结果集
+2014-09-10 07:55:04 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:55:15 释放结果集
+2014-09-10 07:55:15 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 07:55:20 释放结果集
+2014-09-10 07:55:20 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 07:55:54 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 07:55:54 释放结果集
+2014-09-10 07:55:54 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 07:56:00 查询 select * from userinfo where id=2 and userpwd =123
+2014-09-10 07:56:00 释放结果集
+2014-09-10 07:56:00 完成整个查询任务,所用时间为0.013000965118408
+2014-09-10 07:56:47 查询 select * from userinfo where id=2 and userpwd =123
+2014-09-10 07:56:47 释放结果集
+2014-09-10 07:56:47 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 07:56:51 查询 select * from userinfo where id=3 and userpwd =123
+2014-09-10 07:56:51 释放结果集
+2014-09-10 07:56:51 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:00:01 查询 select * from userinfo where id=3 and userpwd =123
+2014-09-10 08:00:01 释放结果集
+2014-09-10 08:00:01 完成整个查询任务,所用时间为0.0030009746551514
+2014-09-10 08:00:06 查询 select * from userinfo where id=123 and userpwd =123
+2014-09-10 08:00:06 释放结果集
+2014-09-10 08:00:06 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:00:07 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:00:07 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:00:07 释放结果集
+2014-09-10 08:00:07 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:02:07 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:02:07 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:02:07 释放结果集
+2014-09-10 08:02:07 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:03:45 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:03:45 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:03:45 释放结果集
+2014-09-10 08:03:45 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:03:46 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:03:46 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:03:46 释放结果集
+2014-09-10 08:03:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:03:47 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:03:47 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:03:47 释放结果集
+2014-09-10 08:03:47 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 08:03:48 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:03:48 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:03:48 释放结果集
+2014-09-10 08:03:48 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:03:53 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:03:53 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:03:53 释放结果集
+2014-09-10 08:03:53 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:03:56 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:03:56 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:03:56 释放结果集
+2014-09-10 08:03:56 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:04:05 释放结果集
+2014-09-10 08:04:05 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:04:07 释放结果集
+2014-09-10 08:04:07 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:12:16 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:12:16 释放结果集
+2014-09-10 08:12:16 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:13:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:13:38 释放结果集
+2014-09-10 08:13:38 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:13:39 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:13:39 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:13:39 释放结果集
+2014-09-10 08:13:39 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:16:52 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:16:52 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:16:52 释放结果集
+2014-09-10 08:16:52 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:16:58 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:16:58 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:16:58 释放结果集
+2014-09-10 08:16:58 完成整个查询任务,所用时间为0.0039999485015869
+2014-09-10 08:17:07 查询 select * from userinfo where id=1 and userpwd =2134
+2014-09-10 08:17:07 获取一条记录 select * from userinfo where id=1 and userpwd =2134
+2014-09-10 08:17:07 释放结果集
+2014-09-10 08:17:07 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:17:08 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:17:08 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:17:08 释放结果集
+2014-09-10 08:17:08 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:17:11 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:17:11 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:17:11 释放结果集
+2014-09-10 08:17:11 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:18:41 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:18:41 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:18:41 释放结果集
+2014-09-10 08:18:41 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:18:43 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:18:43 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:18:43 释放结果集
+2014-09-10 08:18:43 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:18:56 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:18:56 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:18:56 释放结果集
+2014-09-10 08:18:56 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:19:38 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:19:38 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:19:38 释放结果集
+2014-09-10 08:19:38 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:19:39 查询 select * from userinfo where id= and userpwd =
+2014-09-10 08:19:39 Query Error: select * from userinfo where id= and userpwd =
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and userpwd =' at line 1
+2014-09-10 08:19:39 释放结果集
+2014-09-10 08:19:39 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:20:03 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:03 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:03 释放结果集
+2014-09-10 08:20:03 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:20:35 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:35 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:35 释放结果集
+2014-09-10 08:20:35 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:20:36 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:36 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:36 释放结果集
+2014-09-10 08:20:36 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:20:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:37 释放结果集
+2014-09-10 08:20:37 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:20:53 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:53 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:53 释放结果集
+2014-09-10 08:20:53 完成整个查询任务,所用时间为0
+2014-09-10 08:20:55 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:55 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:20:55 释放结果集
+2014-09-10 08:20:55 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.0020008087158203
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:37 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:37 释放结果集
+2014-09-10 08:24:37 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:24:38 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:38 释放结果集
+2014-09-10 08:24:38 完成整个查询任务,所用时间为0.0010008811950684
+2014-09-10 08:24:42 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:42 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:42 释放结果集
+2014-09-10 08:24:42 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:24:42 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:42 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:42 释放结果集
+2014-09-10 08:24:42 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:24:42 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:42 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:42 释放结果集
+2014-09-10 08:24:42 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.0010011196136475
+2014-09-10 08:24:43 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:43 释放结果集
+2014-09-10 08:24:43 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:24:46 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:24:46 释放结果集
+2014-09-10 08:24:46 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:25:06 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:06 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:06 释放结果集
+2014-09-10 08:25:06 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:11 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:11 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:11 释放结果集
+2014-09-10 08:25:11 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:12 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:12 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:12 释放结果集
+2014-09-10 08:25:12 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:12 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:12 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:12 释放结果集
+2014-09-10 08:25:12 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:25:13 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:13 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:13 释放结果集
+2014-09-10 08:25:13 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:13 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:13 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:13 释放结果集
+2014-09-10 08:25:13 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:14 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 释放结果集
+2014-09-10 08:25:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:14 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 释放结果集
+2014-09-10 08:25:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:14 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 释放结果集
+2014-09-10 08:25:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:14 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 释放结果集
+2014-09-10 08:25:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:14 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:14 释放结果集
+2014-09-10 08:25:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:15 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 释放结果集
+2014-09-10 08:25:15 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:25:15 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 释放结果集
+2014-09-10 08:25:15 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:25:15 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 释放结果集
+2014-09-10 08:25:15 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:15 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:15 释放结果集
+2014-09-10 08:25:15 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:16 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:16 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:16 释放结果集
+2014-09-10 08:25:16 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:16 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:16 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:16 释放结果集
+2014-09-10 08:25:16 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:25:16 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:16 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:16 释放结果集
+2014-09-10 08:25:16 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:17 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:17 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:17 释放结果集
+2014-09-10 08:25:17 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:25:17 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:17 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:17 释放结果集
+2014-09-10 08:25:17 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:18 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:18 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:18 释放结果集
+2014-09-10 08:25:18 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:18 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:18 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:18 释放结果集
+2014-09-10 08:25:18 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:18 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:18 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:18 释放结果集
+2014-09-10 08:25:18 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:25:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 释放结果集
+2014-09-10 08:25:19 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 释放结果集
+2014-09-10 08:25:19 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 释放结果集
+2014-09-10 08:25:19 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 释放结果集
+2014-09-10 08:25:19 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:19 释放结果集
+2014-09-10 08:25:19 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:20 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 释放结果集
+2014-09-10 08:25:20 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:20 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 释放结果集
+2014-09-10 08:25:20 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:25:20 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 释放结果集
+2014-09-10 08:25:20 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:20 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 释放结果集
+2014-09-10 08:25:20 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:25:20 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:20 释放结果集
+2014-09-10 08:25:20 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:21 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:21 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:21 释放结果集
+2014-09-10 08:25:21 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:25:21 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:21 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:21 释放结果集
+2014-09-10 08:25:21 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:25:21 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:21 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:21 释放结果集
+2014-09-10 08:25:21 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:25:54 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:54 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:25:54 释放结果集
+2014-09-10 08:25:54 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 08:36:49 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:36:49 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:36:49 释放结果集
+2014-09-10 08:36:49 完成整个查询任务,所用时间为0.0029997825622559
+2014-09-10 08:36:57 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:36:57 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:36:57 释放结果集
+2014-09-10 08:36:57 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:37:06 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:06 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:06 释放结果集
+2014-09-10 08:37:06 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:37:11 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:11 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:11 释放结果集
+2014-09-10 08:37:11 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:37:41 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:41 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:41 释放结果集
+2014-09-10 08:37:41 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:37:48 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:48 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:48 释放结果集
+2014-09-10 08:37:48 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 08:37:53 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:53 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:53 释放结果集
+2014-09-10 08:37:53 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:37:57 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:57 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:37:57 释放结果集
+2014-09-10 08:37:57 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:38:01 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:38:01 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:38:01 释放结果集
+2014-09-10 08:38:01 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 08:38:06 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:38:06 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:38:06 释放结果集
+2014-09-10 08:38:06 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:39:04 查询 select * from userinfo where id=123 and userpwd =123123
+2014-09-10 08:39:04 获取一条记录 select * from userinfo where id=123 and userpwd =123123
+2014-09-10 08:39:04 释放结果集
+2014-09-10 08:39:04 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:39:09 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:09 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:09 释放结果集
+2014-09-10 08:39:09 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:39:14 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:14 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:14 释放结果集
+2014-09-10 08:39:14 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:39:34 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:34 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:34 释放结果集
+2014-09-10 08:39:34 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:39:41 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:41 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:39:41 释放结果集
+2014-09-10 08:39:41 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:39:48 查询 select * from userinfo where id=123 and userpwd =123123
+2014-09-10 08:39:48 获取一条记录 select * from userinfo where id=123 and userpwd =123123
+2014-09-10 08:39:48 释放结果集
+2014-09-10 08:39:48 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:40:05 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:40:05 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:40:05 释放结果集
+2014-09-10 08:40:05 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:40:09 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:40:09 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:40:09 释放结果集
+2014-09-10 08:40:09 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:40:14 查询 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:40:14 获取一条记录 select * from userinfo where id=1 and userpwd =123123
+2014-09-10 08:40:14 释放结果集
+2014-09-10 08:40:14 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:40:27 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:40:27 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:40:27 释放结果集
+2014-09-10 08:40:27 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:40:39 查询 select * from userinfo where id=2 and userpwd =123
+2014-09-10 08:40:39 获取一条记录 select * from userinfo where id=2 and userpwd =123
+2014-09-10 08:40:39 释放结果集
+2014-09-10 08:40:39 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:40:43 查询 select * from userinfo where id=1 and userpwd =1234
+2014-09-10 08:40:43 获取一条记录 select * from userinfo where id=1 and userpwd =1234
+2014-09-10 08:40:43 释放结果集
+2014-09-10 08:40:43 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:40:47 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:40:47 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:40:47 释放结果集
+2014-09-10 08:40:47 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:40:51 查询 select * from userinfo where id=3 and userpwd =123
+2014-09-10 08:40:51 获取一条记录 select * from userinfo where id=3 and userpwd =123
+2014-09-10 08:40:51 释放结果集
+2014-09-10 08:40:51 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 08:45:19 查询 select * from userinfo where id=3 and userpwd =123
+2014-09-10 08:45:19 获取一条记录 select * from userinfo where id=3 and userpwd =123
+2014-09-10 08:45:19 释放结果集
+2014-09-10 08:45:19 完成整个查询任务,所用时间为0.0039999485015869
+2014-09-10 08:48:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:48:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:48:19 释放结果集
+2014-09-10 08:48:19 完成整个查询任务,所用时间为0.0030009746551514
+2014-09-10 08:48:28 查询 select * from userinfo where id=2 and userpwd =123
+2014-09-10 08:48:28 获取一条记录 select * from userinfo where id=2 and userpwd =123
+2014-09-10 08:48:28 释放结果集
+2014-09-10 08:48:28 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:54:15 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:54:15 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:54:15 释放结果集
+2014-09-10 08:54:15 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:54:19 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:54:19 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:54:19 释放结果集
+2014-09-10 08:54:19 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 08:54:24 查询 select * from userinfo where id=2 and userpwd =123
+2014-09-10 08:54:24 获取一条记录 select * from userinfo where id=2 and userpwd =123
+2014-09-10 08:54:24 释放结果集
+2014-09-10 08:54:24 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 08:54:45 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:54:45 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:54:45 释放结果集
+2014-09-10 08:54:45 完成整个查询任务,所用时间为0.004000186920166
+2014-09-10 08:55:13 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:55:13 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 08:55:13 释放结果集
+2014-09-10 08:55:13 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:02:30 查询 select * from userinfo where id=3 and userpwd =123
+2014-09-10 09:02:30 获取一条记录 select * from userinfo where id=3 and userpwd =123
+2014-09-10 09:02:30 释放结果集
+2014-09-10 09:02:30 完成整个查询任务,所用时间为0.029000997543335
+2014-09-10 09:09:24 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:09:24 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:09:24 释放结果集
+2014-09-10 09:09:24 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:13:58 查询 select * from userinfo where id=2 and userpwd =1234
+2014-09-10 09:13:58 获取一条记录 select * from userinfo where id=2 and userpwd =1234
+2014-09-10 09:13:58 释放结果集
+2014-09-10 09:13:58 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:14:04 查询 select * from userinfo where id=1 and userpwd =213
+2014-09-10 09:14:04 获取一条记录 select * from userinfo where id=1 and userpwd =213
+2014-09-10 09:14:04 释放结果集
+2014-09-10 09:14:04 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 09:14:09 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:14:09 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:14:09 释放结果集
+2014-09-10 09:14:09 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:14:22 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:14:22 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:14:22 释放结果集
+2014-09-10 09:14:22 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:14:30 查询 select * from userinfo where id=123 and userpwd =231
+2014-09-10 09:14:30 获取一条记录 select * from userinfo where id=123 and userpwd =231
+2014-09-10 09:14:30 释放结果集
+2014-09-10 09:14:30 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:14:35 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:14:35 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:14:35 释放结果集
+2014-09-10 09:14:35 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:15:04 查询 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:15:04 获取一条记录 select * from userinfo where id=1 and userpwd =123
+2014-09-10 09:15:04 释放结果集
+2014-09-10 09:15:04 完成整个查询任务,所用时间为0.0029997825622559
+2014-09-10 09:15:08 查询 select * from userinfo where id=1 and userpwd =1234
+2014-09-10 09:15:08 获取一条记录 select * from userinfo where id=1 and userpwd =1234
+2014-09-10 09:15:08 释放结果集
+2014-09-10 09:15:08 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:15:35 查询 select * from userinfo where id=3 and userpwd =123
+2014-09-10 09:15:35 获取一条记录 select * from userinfo where id=3 and userpwd =123
+2014-09-10 09:15:35 释放结果集
+2014-09-10 09:15:35 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:38:24 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 09:38:24 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 09:38:24 释放结果集
+2014-09-10 09:38:24 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:44:06 查询 select * from friendsinfo where userid=
+2014-09-10 09:44:06 Query Error: select * from friendsinfo where userid=
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2014-09-10 09:44:06 释放结果集
+2014-09-10 09:44:06 完成整个查询任务,所用时间为0.0030012130737305
+2014-09-10 09:44:48 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 09:44:48 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 09:44:48 释放结果集
+2014-09-10 09:44:48 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:44:48 查询 select * from friendsinfo where userid=1
+2014-09-10 09:44:48 释放结果集
+2014-09-10 09:44:48 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:49:01 查询 select * from friendsinfo where userid=1
+2014-09-10 09:49:01 释放结果集
+2014-09-10 09:49:01 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:49:17 查询 select * from friendsinfo where userid=1
+2014-09-10 09:49:17 释放结果集
+2014-09-10 09:49:17 完成整个查询任务,所用时间为0.0030009746551514
+2014-09-10 09:49:37 查询 select * from friendsinfo where userid=1
+2014-09-10 09:49:37 释放结果集
+2014-09-10 09:49:37 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:50:17 查询 select * from friendsinfo where userid=1
+2014-09-10 09:50:17 释放结果集
+2014-09-10 09:50:17 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:50:18 查询 select * from friendsinfo where userid=1
+2014-09-10 09:50:18 释放结果集
+2014-09-10 09:50:18 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 09:50:19 查询 select * from friendsinfo where userid=1
+2014-09-10 09:50:19 释放结果集
+2014-09-10 09:50:19 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 09:50:20 查询 select * from friendsinfo where userid=1
+2014-09-10 09:50:20 释放结果集
+2014-09-10 09:50:20 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:50:49 查询 select * from friendsinfo where userid=1
+2014-09-10 09:50:49 释放结果集
+2014-09-10 09:50:49 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:52:22 查询 select * from friendsinfo where userid=1
+2014-09-10 09:52:22 释放结果集
+2014-09-10 09:52:22 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:52:46 查询 select * from friendsinfo where userid=1
+2014-09-10 09:52:46 释放结果集
+2014-09-10 09:52:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:55:13 查询 select * from friendsinfo where userid=1
+2014-09-10 09:55:13 释放结果集
+2014-09-10 09:55:13 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:55:58 查询 select * from friendsinfo where userid=1
+2014-09-10 09:55:58 释放结果集
+2014-09-10 09:55:58 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 09:56:44 查询 select * from friendsinfo where userid=1
+2014-09-10 09:56:44 释放结果集
+2014-09-10 09:56:44 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:56:45 查询 select * from friendsinfo where userid=1
+2014-09-10 09:56:45 释放结果集
+2014-09-10 09:56:45 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 09:56:46 查询 select * from friendsinfo where userid=1
+2014-09-10 09:56:46 释放结果集
+2014-09-10 09:56:46 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:56:48 查询 select * from friendsinfo where userid=1
+2014-09-10 09:56:48 释放结果集
+2014-09-10 09:56:48 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 09:57:59 查询 select * from friendsinfo where userid=1
+2014-09-10 09:57:59 释放结果集
+2014-09-10 09:57:59 完成整个查询任务,所用时间为0.0050008296966553
+2014-09-10 09:58:00 查询 select * from friendsinfo where userid=1
+2014-09-10 09:58:00 释放结果集
+2014-09-10 09:58:00 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 09:58:01 查询 select * from friendsinfo where userid=1
+2014-09-10 09:58:01 释放结果集
+2014-09-10 09:58:01 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:59:36 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:36 释放结果集
+2014-09-10 09:59:36 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:59:37 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:37 释放结果集
+2014-09-10 09:59:37 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 09:59:37 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:37 释放结果集
+2014-09-10 09:59:37 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:59:38 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:38 释放结果集
+2014-09-10 09:59:38 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:59:39 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:39 释放结果集
+2014-09-10 09:59:39 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 09:59:56 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:56 释放结果集
+2014-09-10 09:59:56 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:59:58 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:58 释放结果集
+2014-09-10 09:59:58 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 09:59:59 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:59 释放结果集
+2014-09-10 09:59:59 完成整个查询任务,所用时间为0.10700702667236
+2014-09-10 09:59:59 查询 select * from friendsinfo where userid=1
+2014-09-10 09:59:59 释放结果集
+2014-09-10 09:59:59 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:00:03 查询 select * from friendsinfo where userid=1
+2014-09-10 10:00:03 释放结果集
+2014-09-10 10:00:03 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:01:05 查询 select * from friendsinfo where userid=1
+2014-09-10 10:01:05 释放结果集
+2014-09-10 10:01:05 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:01:07 查询 select * from friendsinfo where userid=1
+2014-09-10 10:01:07 释放结果集
+2014-09-10 10:01:07 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:01:46 查询 select * from friendsinfo where userid=1
+2014-09-10 10:01:46 释放结果集
+2014-09-10 10:01:46 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:01:48 查询 select * from friendsinfo where userid=1
+2014-09-10 10:01:48 释放结果集
+2014-09-10 10:01:48 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:01:51 查询 select * from friendsinfo where userid=1
+2014-09-10 10:01:51 释放结果集
+2014-09-10 10:01:51 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:01:57 查询 select * from userinfo where userid=2 and userpwd =123
+2014-09-10 10:01:57 获取一条记录 select * from userinfo where userid=2 and userpwd =123
+2014-09-10 10:01:57 释放结果集
+2014-09-10 10:01:57 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:01:57 查询 select * from friendsinfo where userid=2
+2014-09-10 10:01:57 释放结果集
+2014-09-10 10:01:57 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:03:08 查询 select * from friendsinfo where userid=2
+2014-09-10 10:03:08 释放结果集
+2014-09-10 10:03:08 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:03:35 查询 select * from userinfo where userid=3 and userpwd =123
+2014-09-10 10:03:35 获取一条记录 select * from userinfo where userid=3 and userpwd =123
+2014-09-10 10:03:35 释放结果集
+2014-09-10 10:03:35 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:03:35 查询 select * from friendsinfo where userid=3
+2014-09-10 10:03:35 释放结果集
+2014-09-10 10:03:35 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:03:52 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:03:52 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:03:52 释放结果集
+2014-09-10 10:03:52 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:03:52 查询 select * from friendsinfo where userid=1
+2014-09-10 10:03:52 释放结果集
+2014-09-10 10:03:52 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:05:45 查询 select * from friendsinfo where userid=1
+2014-09-10 10:05:45 释放结果集
+2014-09-10 10:05:45 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:06:35 查询 select * from friendsinfo where userid=1
+2014-09-10 10:06:35 释放结果集
+2014-09-10 10:06:35 完成整个查询任务,所用时间为0.0039999485015869
+2014-09-10 10:17:47 查询 select * from friendsinfo where userid=1
+2014-09-10 10:17:47 释放结果集
+2014-09-10 10:17:47 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:18:05 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:18:05 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:18:05 释放结果集
+2014-09-10 10:18:05 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:18:05 查询 select * from friendsinfo where userid=1
+2014-09-10 10:18:05 释放结果集
+2014-09-10 10:18:05 完成整个查询任务,所用时间为0.0010001659393311
+2014-09-10 10:22:56 查询 select * from friendsinfo where userid=1
+2014-09-10 10:22:56 释放结果集
+2014-09-10 10:22:56 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:22:57 查询 select * from friendsinfo where userid=1
+2014-09-10 10:22:57 释放结果集
+2014-09-10 10:22:57 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:23:35 查询 select * from friendsinfo where userid=1
+2014-09-10 10:23:35 释放结果集
+2014-09-10 10:23:35 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:23:36 查询 select * from friendsinfo where userid=1
+2014-09-10 10:23:36 释放结果集
+2014-09-10 10:23:36 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:23:42 查询 select * from friendsinfo where userid=1
+2014-09-10 10:23:42 释放结果集
+2014-09-10 10:23:42 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:23:43 查询 select * from friendsinfo where userid=1
+2014-09-10 10:23:43 释放结果集
+2014-09-10 10:23:43 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:23:44 查询 select * from friendsinfo where userid=1
+2014-09-10 10:23:44 释放结果集
+2014-09-10 10:23:44 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:24:01 查询 select * from friendsinfo where userid=1
+2014-09-10 10:24:01 释放结果集
+2014-09-10 10:24:01 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:24:02 查询 select * from friendsinfo where userid=1
+2014-09-10 10:24:02 释放结果集
+2014-09-10 10:24:02 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:24:29 查询 select * from friendsinfo where userid=1
+2014-09-10 10:24:29 释放结果集
+2014-09-10 10:24:29 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:24:42 查询 select * from friendsinfo where userid=1
+2014-09-10 10:24:42 释放结果集
+2014-09-10 10:24:42 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-10 10:24:52 查询 select * from friendsinfo where userid=1
+2014-09-10 10:24:52 释放结果集
+2014-09-10 10:24:52 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:25:07 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:25:07 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:25:07 释放结果集
+2014-09-10 10:25:07 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:25:07 查询 select * from friendsinfo where userid=1
+2014-09-10 10:25:07 释放结果集
+2014-09-10 10:25:07 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:26:22 查询 select * from friendsinfo where userid=1
+2014-09-10 10:26:22 释放结果集
+2014-09-10 10:26:22 完成整个查询任务,所用时间为0.002000093460083
+2014-09-10 10:39:51 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:39:51 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:39:51 释放结果集
+2014-09-10 10:39:51 完成整个查询任务,所用时间为0.004000186920166
+2014-09-10 10:39:51 查询 select * from friendsinfo where userid=1
+2014-09-10 10:39:51 释放结果集
+2014-09-10 10:39:51 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:40:54 查询 select * from friendsinfo where userid=1
+2014-09-10 10:40:54 释放结果集
+2014-09-10 10:40:54 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-10 10:41:53 查询 select * from friendsinfo where userid=
+2014-09-10 10:41:53 Query Error: select * from friendsinfo where userid=
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2014-09-10 10:41:53 释放结果集
+2014-09-10 10:41:53 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-10 10:42:02 查询 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:42:02 获取一条记录 select * from userinfo where userid=1 and userpwd =123
+2014-09-10 10:42:02 释放结果集
+2014-09-10 10:42:02 完成整个查询任务,所用时间为0.003000020980835
+2014-09-10 10:42:02 查询 select * from friendsinfo where userid=1
+2014-09-10 10:42:02 释放结果集
+2014-09-10 10:42:02 完成整个查询任务,所用时间为0.002000093460083
