@@ -1,0 +1,151 @@
+2014-09-09 08:14:46 查询 select * from sendinfo where 1=1
+2014-09-09 08:14:46 释放结果集
+2014-09-09 08:14:46 完成整个查询任务,所用时间为0.0020008087158203
+2014-09-09 08:20:40 查询 select * from sendinfo where 1=1
+2014-09-09 08:20:40 释放结果集
+2014-09-09 08:20:40 完成整个查询任务,所用时间为0.003000020980835
+2014-09-09 08:20:42 查询 select * from sendinfo where 1=1
+2014-09-09 08:20:42 释放结果集
+2014-09-09 08:20:42 完成整个查询任务,所用时间为0.0020010471343994
+2014-09-09 08:23:32 查询 select * from sendinfo where 1=1
+2014-09-09 08:23:32 释放结果集
+2014-09-09 08:23:32 完成整个查询任务,所用时间为0.003000020980835
+2014-09-09 08:23:58 查询 select * from sendinfo where 1=1
+2014-09-09 08:23:58 释放结果集
+2014-09-09 08:23:58 完成整个查询任务,所用时间为0.002000093460083
+2014-09-09 08:25:11 查询 select * from sendinfo where 1=1
+2014-09-09 08:25:11 释放结果集
+2014-09-09 08:25:11 完成整个查询任务,所用时间为0.00099992752075195
+2014-09-09 08:25:30 查询 select * from sendinfo where 1=1
+2014-09-09 08:25:30 释放结果集
+2014-09-09 08:25:30 完成整个查询任务,所用时间为0.003000020980835
+2014-09-09 08:26:14 查询 select * from sendinfo where 1=1
+2014-09-09 08:26:14 释放结果集
+2014-09-09 08:26:14 完成整个查询任务,所用时间为0.005000114440918
+2014-09-09 08:26:16 查询 select * from sendinfo where 1=1
+2014-09-09 08:26:16 释放结果集
+2014-09-09 08:26:16 完成整个查询任务,所用时间为0.0019998550415039
+2014-09-09 08:39:41 没有要插入的数据
+
+2014-09-09 08:39:41 释放结果集
+2014-09-09 08:39:41 完成整个查询任务,所用时间为0
+2014-09-09 09:01:48 插入 insert into sendinfo(name,title,content) values('阿萨德','阿萨德','阿萨德')
+2014-09-09 09:01:48 查询 insert into sendinfo(name,title,content) values('阿萨德','阿萨德','阿萨德')
+2014-09-09 09:01:48 释放结果集
+2014-09-09 09:01:48 完成整个查询任务,所用时间为0.028001070022583
+2014-09-09 09:01:49 插入 insert into sendinfo(name,title,content) values('阿萨德','阿萨德','阿萨德')
+2014-09-09 09:01:49 查询 insert into sendinfo(name,title,content) values('阿萨德','阿萨德','阿萨德')
+2014-09-09 09:01:49 释放结果集
+2014-09-09 09:01:49 完成整个查询任务,所用时间为0.33601999282837
+2014-09-09 09:03:54 插入 insert into sendinfo(name,title,content) values('cyc','我实现了','ajax 插入数据')
+2014-09-09 09:03:54 查询 insert into sendinfo(name,title,content) values('cyc','我实现了','ajax 插入数据')
+2014-09-09 09:03:54 释放结果集
+2014-09-09 09:03:54 完成整个查询任务,所用时间为0.037002086639404
+2014-09-09 09:03:57 插入 insert into sendinfo(name,title,content) values('cyc','我实现了','ajax 插入数据')
+2014-09-09 09:03:57 查询 insert into sendinfo(name,title,content) values('cyc','我实现了','ajax 插入数据')
+2014-09-09 09:03:57 释放结果集
+2014-09-09 09:03:57 完成整个查询任务,所用时间为0.26501512527466
+2014-09-09 09:04:44 插入 insert into sendinfo(name,title,content) values('cyc','我实现了','ajax 插入数据')
+2014-09-09 09:04:44 查询 insert into sendinfo(name,title,content) values('cyc','我实现了','ajax 插入数据')
+2014-09-09 09:04:44 释放结果集
+2014-09-09 09:04:44 完成整个查询任务,所用时间为0.037003040313721
+2014-09-09 09:26:44 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:26:44 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:26:44 释放结果集
+2014-09-09 09:26:44 完成整个查询任务,所用时间为0.050002813339233
+2014-09-09 09:27:23 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:27:23 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:27:23 释放结果集
+2014-09-09 09:27:23 完成整个查询任务,所用时间为0.028001070022583
+2014-09-09 09:29:28 插入 insert into sendinfo(name,title,content) values('cyc','cyc','cyc')
+2014-09-09 09:29:28 查询 insert into sendinfo(name,title,content) values('cyc','cyc','cyc')
+2014-09-09 09:29:28 释放结果集
+2014-09-09 09:29:28 完成整个查询任务,所用时间为0.041002988815308
+2014-09-09 09:31:34 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:31:34 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:31:34 释放结果集
+2014-09-09 09:31:34 完成整个查询任务,所用时间为0.026002168655396
+2014-09-09 09:32:43 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:32:43 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:32:43 释放结果集
+2014-09-09 09:32:43 完成整个查询任务,所用时间为0.058004140853882
+2014-09-09 09:34:59 插入 insert into sendinfo(name,title,content) values('asdf','dsf','asdf')
+2014-09-09 09:34:59 查询 insert into sendinfo(name,title,content) values('asdf','dsf','asdf')
+2014-09-09 09:34:59 释放结果集
+2014-09-09 09:34:59 完成整个查询任务,所用时间为0.027000904083252
+2014-09-09 09:40:07 插入 insert into sendinfo(name,title,content) values('asdf','sadf','asdf')
+2014-09-09 09:40:07 查询 insert into sendinfo(name,title,content) values('asdf','sadf','asdf')
+2014-09-09 09:40:09 释放结果集
+2014-09-09 09:40:09 完成整个查询任务,所用时间为2.6851530075073
+2014-09-09 09:40:18 插入 insert into sendinfo(name,title,content) values('asdfs','sdf','fds')
+2014-09-09 09:40:18 查询 insert into sendinfo(name,title,content) values('asdfs','sdf','fds')
+2014-09-09 09:40:18 释放结果集
+2014-09-09 09:40:18 完成整个查询任务,所用时间为0.030000925064087
+2014-09-09 09:42:00 插入 insert into sendinfo(name,title,content) values('asdf','sadf','asdf')
+2014-09-09 09:42:00 查询 insert into sendinfo(name,title,content) values('asdf','sadf','asdf')
+2014-09-09 09:42:00 释放结果集
+2014-09-09 09:42:00 完成整个查询任务,所用时间为0.040003061294556
+2014-09-09 09:43:10 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:43:10 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:43:10 释放结果集
+2014-09-09 09:43:10 完成整个查询任务,所用时间为0.041002988815308
+2014-09-09 09:44:39 插入 insert into sendinfo(name,title,content) values('asd','asd','ads')
+2014-09-09 09:44:39 查询 insert into sendinfo(name,title,content) values('asd','asd','ads')
+2014-09-09 09:44:39 释放结果集
+2014-09-09 09:44:39 完成整个查询任务,所用时间为0.032001972198486
+2014-09-09 09:45:51 插入 insert into sendinfo(name,title,content) values('asd','ad','asd')
+2014-09-09 09:45:51 查询 insert into sendinfo(name,title,content) values('asd','ad','asd')
+2014-09-09 09:45:51 释放结果集
+2014-09-09 09:45:51 完成整个查询任务,所用时间为0.17901086807251
+2014-09-09 09:46:44 插入 insert into sendinfo(name,title,content) values('as','asd','asd')
+2014-09-09 09:46:44 查询 insert into sendinfo(name,title,content) values('as','asd','asd')
+2014-09-09 09:46:44 释放结果集
+2014-09-09 09:46:44 完成整个查询任务,所用时间为0.016000986099243
+2014-09-09 09:47:53 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:47:53 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:47:53 释放结果集
+2014-09-09 09:47:53 完成整个查询任务,所用时间为0.019001007080078
+2014-09-09 09:47:56 插入 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:47:56 查询 insert into sendinfo(name,title,content) values('asd','asd','asd')
+2014-09-09 09:47:57 释放结果集
+2014-09-09 09:47:57 完成整个查询任务,所用时间为0.32901883125305
+2014-09-09 09:51:33 插入 insert into sendinfo(name,title,content) values('阿斯蒂芬','asdf','阿斯蒂芬撒旦法')
+2014-09-09 09:51:33 查询 insert into sendinfo(name,title,content) values('阿斯蒂芬','asdf','阿斯蒂芬撒旦法')
+2014-09-09 09:51:33 释放结果集
+2014-09-09 09:51:33 完成整个查询任务,所用时间为0.036002159118652
+2014-09-09 09:52:23 插入 insert into sendinfo(name,title,content) values('阿萨德','阿萨德','阿萨德')
+2014-09-09 09:52:23 查询 insert into sendinfo(name,title,content) values('阿萨德','阿萨德','阿萨德')
+2014-09-09 09:52:23 释放结果集
+2014-09-09 09:52:23 完成整个查询任务,所用时间为0.02900218963623
+2014-09-09 09:54:57 插入 insert into sendinfo(name,title,content) values('阿斯蒂芬','斯蒂芬','阿斯蒂芬')
+2014-09-09 09:54:57 查询 insert into sendinfo(name,title,content) values('阿斯蒂芬','斯蒂芬','阿斯蒂芬')
+2014-09-09 09:54:58 释放结果集
+2014-09-09 09:54:58 完成整个查询任务,所用时间为0.20601201057434
+2014-09-09 09:57:16 插入 insert into sendinfo(name,title,content) values('asd','阿斯达斯','阿斯')
+2014-09-09 09:57:16 查询 insert into sendinfo(name,title,content) values('asd','阿斯达斯','阿斯')
+2014-09-09 09:57:16 释放结果集
+2014-09-09 09:57:16 完成整个查询任务,所用时间为0.043003082275391
+2014-09-09 10:20:07 插入 insert into sendinfo(name,title,content) values('asd','ad ','ad ')
+2014-09-09 10:20:07 查询 insert into sendinfo(name,title,content) values('asd','ad ','ad ')
+2014-09-09 10:20:07 释放结果集
+2014-09-09 10:20:07 完成整个查询任务,所用时间为0.041002035140991
+2014-09-09 10:21:12 插入 insert into sendinfo(name,title,content) values('asd','asd','ads')
+2014-09-09 10:21:12 查询 insert into sendinfo(name,title,content) values('asd','asd','ads')
+2014-09-09 10:21:12 释放结果集
+2014-09-09 10:21:12 完成整个查询任务,所用时间为0.023000955581665
+2014-09-09 10:22:15 插入 insert into sendinfo(name,title,content) values('ad','asd','ads')
+2014-09-09 10:22:15 查询 insert into sendinfo(name,title,content) values('ad','asd','ads')
+2014-09-09 10:22:15 释放结果集
+2014-09-09 10:22:15 完成整个查询任务,所用时间为0.029000997543335
+2014-09-09 10:22:27 插入 insert into sendinfo(name,title,content) values('asd','asd','ad')
+2014-09-09 10:22:27 查询 insert into sendinfo(name,title,content) values('asd','asd','ad')
+2014-09-09 10:22:28 释放结果集
+2014-09-09 10:22:28 完成整个查询任务,所用时间为0.42502403259277
+2014-09-09 10:22:30 插入 insert into sendinfo(name,title,content) values('asd','asd','ad')
+2014-09-09 10:22:30 查询 insert into sendinfo(name,title,content) values('asd','asd','ad')
+2014-09-09 10:22:30 释放结果集
+2014-09-09 10:22:30 完成整个查询任务,所用时间为0.010999917984009
+2014-09-09 10:22:46 插入 insert into sendinfo(name,title,content) values('asd','adf','sdaf ')
+2014-09-09 10:22:46 查询 insert into sendinfo(name,title,content) values('asd','adf','sdaf ')
+2014-09-09 10:22:46 释放结果集
+2014-09-09 10:22:46 完成整个查询任务,所用时间为0.015001058578491
